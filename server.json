@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Morango",
+      "price": 1000
+    },
+    {
+      "id": 1,
+      "name": "Banana",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "name": "Maçã",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "name": "Pera",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "name": "Uva",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "name": "Kiwi",
+      "price": 1000
+    }
+  ],
+  "datacontent": [
+    {
+      "id": 300,
+      "name": "Tester"
+    },
+    {
+      "id": 333,
+      "name": "Aldy"
+    }
+  ]
+}
